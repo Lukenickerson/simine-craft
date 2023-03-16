@@ -1,0 +1,21 @@
+{
+  "name": "simine-craft",
+  "description": "Fork of SimonDev's Minecraft Clone 2",
+  "version": "1.0.1",
+  "main": "./src/main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx http-server"
+  },
+  "keywords": [
+    "Minecraft",
+    "Voxel",
+    "JavaScript"
+  ],
+  "author": "Luke Nickerson and SimonDev",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
