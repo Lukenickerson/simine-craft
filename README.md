@@ -15,9 +15,12 @@ Try it out now: https://lukenickerson.github.io/simine-craft/
 
 * <kbd>w</kbd>, <kbd>a</kbd>, <kbd>s</kbd>, <kbd>d</kbd>, or arrow keys = Movement
 * <kbd>Space</kbd> = Jump
-* <kbd>t</kbd> = toggle tool between adding a block and destroying a block (pickaxe)
-* <kbd>Enter</kbd> = use the selected tool (add or destroy a block)
-* <kbd>[</kbd> and <kbd>]</kbd> = cycle textures, i.e. block types
+* <kbd>1</kbd> = Select pickaxe
+* <kbd>2</kbd> - <kbd>9</kbd> = Select block (texture) to create
+* *Left click* or <kbd>Enter</kbd> = Primary action, e.g., use the pickaxe (if equipped)
+* *Right click* or <kbd>Backspace</kbd> = Secondary action, e.g., create a block (if equipped)
+* <kbd>t</kbd> = Toggle tool between adding a block and pickaxe
+* <kbd>[</kbd> and <kbd>]</kbd> = Cycle blocks (textures)
 
 ## Development
 
