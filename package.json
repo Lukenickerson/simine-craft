@@ -1,7 +1,7 @@
 {
   "name": "simine-craft",
   "description": "Fork of SimonDev's Minecraft Clone 2",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "./src/main.js",
   "devDependencies": {},
   "scripts": {
